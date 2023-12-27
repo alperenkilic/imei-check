@@ -2,6 +2,8 @@
 
 Bu belge, Python kullanarak Selenium kütüphanesi ile IMEI sorgulama işlemi yapmak için kullanılabilecek bir örnek kodu içerir.
 
+https://github.com/alperenkilic/imei-check/assets/56765279/35119f2d-0422-4068-9b25-ae896880ff5f
+
 ### Gereksinimler
 
 - Python 3.9
@@ -11,6 +13,10 @@ Bu belge, Python kullanarak Selenium kütüphanesi ile IMEI sorgulama işlemi ya
 ### Nasıl Kullanılır
 
 1. Python ve gerekli bağımlılıkları yükleyin. Selenium kütüphanesi için `pip3 install selenium` komutunu kullanabilirsiniz.
+
+
+
+
 
 2. Webdriver'ı başlatın (örneğin, Chrome için `webdriver.Chrome()`).
 
